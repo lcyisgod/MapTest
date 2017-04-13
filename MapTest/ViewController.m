@@ -29,7 +29,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    NSLog(@"123");
+    NSLog(@"135");
     [super viewDidLoad];
     [self initElem];
 //    [self initGUI];
