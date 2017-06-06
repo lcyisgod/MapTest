@@ -255,6 +255,7 @@
 				TargetAttributes = {
 					E2C982731D542FD10002B669 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 3YA59WQ63S;
 					};
 					E2C9828C1D542FD10002B669 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -472,7 +473,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3YA59WQ63S;
 				INFOPLIST_FILE = MapTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zhiqin.icoach;
@@ -485,7 +486,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 3YA59WQ63S;
 				INFOPLIST_FILE = MapTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zhiqin.icoach;

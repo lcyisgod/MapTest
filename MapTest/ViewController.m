@@ -31,7 +31,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self initElem];
-//    [self initGUI];
 }
 
 -(void)initElem

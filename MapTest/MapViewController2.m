@@ -88,7 +88,6 @@
     KCAnnation *annotation1 = [[KCAnnation alloc] init];
     annotation1.title=@"1929 Art Space";
     annotation1.subtitle=@"我的工作地址";
-    annotation1.coordinate=location1;
     annotation1.image=[UIImage imageNamed:@"icon_pin_floating.png"];
     annotation1.icon=[UIImage imageNamed:@"icon_mark1.png"];
     annotation1.detail=@"1929 Art Space";
@@ -101,7 +100,6 @@
     KCAnnation *annotation2 = [[KCAnnation alloc] init];
     annotation2.title=@"Kenshin&Kaoru";
     annotation2.subtitle=@"Kenshin Cui's Home";
-    annotation2.coordinate=location2;
     annotation2.image=[UIImage imageNamed:@"icon_paopao_waterdrop_streetscape.png"];
     annotation2.icon=[UIImage imageNamed:@"icon_mark2.png"];
     annotation2.detail=@"Kenshin Cui...";
